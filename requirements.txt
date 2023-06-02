@@ -1,5 +1,1 @@
-#!/bin/bash
 
-export FLASK_APP==TranslatorApp.py
-cd /home/site/wwwroot
-flask run --host=0.0.0.0

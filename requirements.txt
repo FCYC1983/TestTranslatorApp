@@ -1,1 +1,2 @@
-pip install pyQt5 requests
+pip install pyQt5
+pip install requests
